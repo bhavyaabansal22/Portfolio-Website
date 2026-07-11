@@ -1,0 +1,9 @@
+# This project is a React + Vite portfolio website.
+# There are no Python dependencies for this repo.
+# Keep this file as a placeholder if you want to document project requirements.
+
+# Recommended commands to install JS dependencies:
+#   npm install
+#   pnpm install
+
+# If you later add Python tooling, list the packages here.

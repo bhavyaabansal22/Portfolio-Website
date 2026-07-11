@@ -1,0 +1,30 @@
+# Node and package managers
+node_modules/
+.pnpm-store/
+.npm/
+.package-lock.json
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+.vite/
+
+# Environment files
+.env
+.env.*
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Figma metadata
+.figma/
+
+# Optional lockfiles should remain tracked if used by the project
+# package-lock.json
+# pnpm-lock.yaml
